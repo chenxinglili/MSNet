@@ -1,0 +1,6 @@
+model_checkpoint_path: "SEGAN-41968"
+all_model_checkpoint_paths: "SEGAN-41200"
+all_model_checkpoint_paths: "SEGAN-41400"
+all_model_checkpoint_paths: "SEGAN-41600"
+all_model_checkpoint_paths: "SEGAN-41800"
+all_model_checkpoint_paths: "SEGAN-41968"
