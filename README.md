@@ -8,6 +8,8 @@ The speech stored in this git is enhanced by our MSNet. We evaluate the performa
 In this Git, enhanced speech and models are uploaded. <br>
 In the folder appendix, more explanations about model structure and hyper-parameters will be added.
 
+![](https://github.com/chenxinglili/MSNet/blob/master/appendix/example.Jpeg)  
+
 If you have questions please contact: Email: lichenxing2015@ia.ac.cn
 
 References: 
